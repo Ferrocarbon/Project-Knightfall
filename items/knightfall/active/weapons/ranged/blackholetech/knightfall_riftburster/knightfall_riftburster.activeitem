@@ -2,7 +2,7 @@
 	"itemName": "knightfall_riftburster",
 	"shortdescription": "Riftburster",
 	"category": "^#ff4800;Black Hole Tech^reset;",
-	"description": "Tears apart the fabric of space and time. ^#ff4800;Created by Jetfire.^reset;",
+	"description": "Tears apart the fabric of space and time. ^#ff4800;Created by Jetfire.^reset; ^##ffff00;Broken^reset;",
   
 	"level": 10,
 	"price": 300000,
