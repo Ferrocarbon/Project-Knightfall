@@ -56,4 +56,13 @@
   "uiConfig": "/interface/chests/chest<slots>.config",
   "frameCooldown": 5,
   "autoCloseCooldown": 3600
+
+  "scripts" : [ "arcana_factoryinvintory.lua" ],
+  "scriptDelta" : 5,
+  "craftingTime" : 1.0,
+  "outputRate" : 4,
+  
+  "inputNodes" : [ [0, 0] ],
+  "outputNodes" : [ [1, 0] ],
+  "directives" : ""
 }

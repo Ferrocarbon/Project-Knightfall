@@ -5,8 +5,9 @@
   "description": "The powerhouse of Knightfall's fleets and their towering megastructures.",
   "shortdescription": "Fusion Reactor Core",
   "race": "generic",
-  "category": "wire",
+  "category": "crafting",
   "price": 5000,
+  "objectType": "container"
   "lightColor": [135, 210, 255],
 
   "apexDescription": "An exceptionally powerful fusion reactor.",
@@ -64,4 +65,20 @@
   "outputNodes": [[-1, 0]],
   "soundEffect": "/sfx/objects/boosterflame.ogg",
   "tooltipKind": "knightfall_base"
+
+  "openSounds": ["/sfx/objects/bunkercabinet_open.ogg"],
+  "closeSounds": ["/sfx/objects/bunkercabinet_close.ogg"],
+  "slotCount" : 1,
+  "uiConfig" : "/interface/knightfall_reactorinterfaces/knightfall_fusionreactor",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+  
+  "input" : [
+    { "name" : "knightfall_plasmacell", "count" : 1 },
+  ],
+  "consumptionTime" : 60.0,
+  "maxPower" : 300,
+  "voltage" : 1000,
+  "directives" : ""
+
 }
