@@ -12,6 +12,41 @@
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
+  
+  "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "arcana_status_energyDrain_immunity",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "arcana_status_radiance_immunity",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "arcana_status_supercharged_immunity",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "arcana_status_cataclysm_immunity",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "biomeheatImmunity",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "biomecoldImmunity",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "biomeradiationImmunity",
+      "amount" : 1.0
+    }
+  ],
 
   "colorOptions" : [
     // YELLOW

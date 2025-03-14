@@ -41,7 +41,15 @@
       "stat" : "maxHealth",
       "amount" : 100
     },
-	{
+    {
+      "stat" : "arcana_status_energyDrain_immunity",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "arcana_status_radiance_immunity",
+      "amount" : 1.0
+    },
+	  {
       "stat" : "biomeheatImmunity",
       "amount" : 1.0
     },

@@ -41,7 +41,7 @@
       "stat" : "maxHealth",
       "amount" : 1000
     },
-	{
+	  {
       "stat" : "biomeheatImmunity",
       "amount" : 1.0
     },
