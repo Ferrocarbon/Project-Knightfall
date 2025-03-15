@@ -1,5 +1,5 @@
 {
-  "itemName" : "knightfall_shrapnelmine_thrown",
+  "itemName" : "knightfall_areadenialmine_thrown",
   "price" : 200,
   "rarity" : "Rare",
   "rarityLabelKind" : "knightfall",
@@ -7,7 +7,7 @@
   "inventoryIcon" : "image.png",
   "image" : "image.png",
   "shortdescription" : "^5;Fragmentation Grenade",
-  "description" : "Knightfall's standard-issue shrapnelmine.",
+  "description" : "Knightfall Area Denial Mines, often used by engineers to fortify positions.",
   "tooltipKind": "knightfall_grenade",
 
     "ammoUsage" : 1,
@@ -16,9 +16,7 @@
   "windupTime" : 0.30,
   "cooldown" : 1,
 
-  "elementalType": "knightfall_explosive",
-
-  "projectileType" : "knightfall_shrapnelmine",
+  "projectileType" : "knightfall_areadenialmine",
   "projectileConfig" : {
     "speed" : 50,
     "power" : 30,
