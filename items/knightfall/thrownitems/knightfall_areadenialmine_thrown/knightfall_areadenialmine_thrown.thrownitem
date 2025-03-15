@@ -16,7 +16,7 @@
   "windupTime" : 0.30,
   "cooldown" : 1,
 
-  "projectileType" : "knightfall_area-denialmine",
+  "projectileType" : "knightfall_area-denial_mine",
   "projectileConfig" : {
     "speed" : 50,
     "power" : 30,
