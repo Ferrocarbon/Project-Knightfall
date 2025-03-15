@@ -1,13 +1,13 @@
 {
-  "itemName" : "knightfall_incindiarymine_thrown",
+  "itemName" : "knightfall_incendiarymine_thrown",
   "price" : 200,
   "rarity" : "Rare",
   "rarityLabelKind" : "knightfall",
   "category" : "^green;Grenade^reset;",
   "inventoryIcon" : "image.png",
   "image" : "image.png",
-  "shortdescription" : "^5;Fragmentation Grenade",
-  "description" : "Knightfall Incindiary Mines, often used by engineers to fortify positions.",
+  "shortdescription" : "^5;Incendiary Mine",
+  "description" : "Knightfall Incendiary Mines, often used by engineers to fortify positions.",
   "tooltipKind": "knightfall_grenade",
 
     "ammoUsage" : 1,
@@ -18,7 +18,7 @@
 
   "elementalType": "knightfall_explosive",
 
-  "projectileType" : "knightfall_incindiarymine",
+  "projectileType" : "knightfall_incendiarymine",
   "projectileConfig" : {
     "speed" : 50,
     "power" : 30,
